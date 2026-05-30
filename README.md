@@ -35,6 +35,7 @@ class IrfanAbdullahMSJ:
         "Advanced ROS2 Navigation",
         "Adaptive Control & State-Space Methods",
         "Industry 4.0 & OPC UA Architectures"
+        "Digital Twins"
     ]
 
     interests = [
@@ -95,20 +96,6 @@ class IrfanAbdullahMSJ:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/irfanabdullahmsj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irfanabdullahmsj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/irfanabdullahmsj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanabdullahmsj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
----
 
 ## 🔥 Streak Stats
 
@@ -129,14 +116,6 @@ class IrfanAbdullahMSJ:
 </div>
 
 ---
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=irfanabdullahmsj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -206,11 +185,10 @@ class IrfanAbdullahMSJ:
 ## 📚 Currently Learning
 
 ```
-🤖 ROS2 Advanced     →  Navigation2, MoveIt2, BehaviorTrees, Real-time Control
+🤖 ROS2 Advanced     →  Navigation2, Gazebo, BehaviorTrees, Real-time Control
 🧠 Deep Learning     →  Physics-Informed NNs, Neural ODEs, System Identification
 🏭 Industry 4.0      →  OPC UA Architecture, TSN, Digital Twins, Edge Computing
 🎛️ Adaptive Control  →  State-Space Methods, Nonlinear Control, Model Predictive Control
-⚙️  Embedded Linux   →  Yocto, Real-Time Linux (PREEMPT_RT), Device Drivers
 🇩🇪 German Language  →   B1 (actively improving!)
 ```
 
