@@ -32,14 +32,15 @@ class IrfanAbdullahMSJ:
 
     currently_learning = [
         "Neural ODEs & Physics-Informed Neural Networks",
-        "Advanced ROS2 Navigation & MoveIt2",
+        "Advanced ROS2 Navigation",
         "Adaptive Control & State-Space Methods",
         "Industry 4.0 & OPC UA Architectures"
     ]
 
     interests = [
         "Robotics", "Control Theory",
-        "Embedded Systems", "System Identification"
+        "Automation", "Industrty 4.0",
+        "Deep Learning"
     ]
 
     fun_fact = "I once built an Ultrasonic Horn — got published for it!"
@@ -61,7 +62,6 @@ class IrfanAbdullahMSJ:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF6C37?style=flat-square&logo=verilog&logoColor=white)
 
 **Robotics & Control**
 
@@ -91,7 +91,6 @@ class IrfanAbdullahMSJ:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS+Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -212,7 +211,7 @@ class IrfanAbdullahMSJ:
 🏭 Industry 4.0      →  OPC UA Architecture, TSN, Digital Twins, Edge Computing
 🎛️ Adaptive Control  →  State-Space Methods, Nonlinear Control, Model Predictive Control
 ⚙️  Embedded Linux   →  Yocto, Real-Time Linux (PREEMPT_RT), Device Drivers
-🇩🇪 German Language  →  A2 → B1 (actively improving!)
+🇩🇪 German Language  →   B1 (actively improving!)
 ```
 
 ---
